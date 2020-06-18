@@ -1,6 +1,9 @@
 # eeg-classification
-  EEG signal classification using eeg dataset
-    Here we define a model of the Neural Convolution Network (CNN) for the analysis of EEG signals. This can be achieved through the      Inserting CNN Classification layers.
+  
+  EEG signal classification using eeg dataset:
+    
+   
+   Here we define a model of the Neural Convolution Network (CNN) for the analysis of EEG signals. This can be achieved through the      Inserting CNN Classification layers.
    
    CONVOLUTIONAL NEURAL NETWORK:
      Convolution neural network is a type of deep learning neural network. They are also called artificial neural networks, artificial shift invariant or space invariant based on their common weight design and invariance translation characteristics. 
